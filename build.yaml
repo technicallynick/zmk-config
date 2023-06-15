@@ -14,4 +14,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: reviung41lp
+    shield: rev1350
